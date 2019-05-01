@@ -1,44 +1,30 @@
 [
   {
-    "Name": "Undergraduate",
-    "Course":"Web Design and Development",
+    "Name": "Research",
+    "Course":"PhD",
     "Module": {
-      "Name": "Server and Client Side Scripting",
-      "Code": "CIS2167",
-      "Hours": "3 hours",
+      "Name": "Scripting and Coding with UML",
+      "Code": "CIS5001",
+      "Hours": "8 hours",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
-      "Volume":["1000 words", "4000 words"],
-      "weights":["20%", "80%"],
-      "Credit": "20 credits"
+      "Volume":["2500 words", "8000 words"],
+      "weights":["25%", "75%"],
+      "Credit": "60 credits"
     }
   },
   {
-    "Name": "Undergraduate",
-    "Course":"Web Design and Development",
+    "Name": "Research",
+    "Course":"PhD",
     "Module": {
-      "Name": "Web Application Development",
-      "Code": "CIS2169",
-      "Hours": "3 hours",
+      "Name": "Mobile Application Design in the Future",
+      "Code": "CIS5002",
+      "Hours": "8 hours",
     "Learning_outcomes":["LO1", "LO2"],
     "Assignment":["CW1", "CW2"],
-    "Volume":["1000 words", "4000 words"],
-    "weights":["20%", "80%"],
-    "Credit": "20 credits"
-    }
-  },
-  {
-    "Name": "Undergraduate",
-    "Course":"Web Design and Development",
-    "Module": {
-      "Name": "Employability",
-      "Code": "CIS2162",
-      "Hours": "3 hours",
-      "Learning_outcomes":["LO1", "LO2"],
-      "Assignment":["CW1", "CW2"],
-      "Volume":["1000 words", "4000 words"],
-      "weights":["20%", "80%"],
-      "Credit": "20 credits"
+    "Volume":["2500 words", "8000 words"],
+    "weights":["25%", "75%"],
+    "Credit": "60 credits"
     }
   }
 
