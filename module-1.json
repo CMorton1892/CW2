@@ -3,7 +3,8 @@
     "Name": "Undergraduate",
     "Course":"Web Design and Development",
     "Module": {
-      "Name":"NAME",
+      "Name":"Server and Client Side Scripting",
+      "Code":"CIS2167",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
@@ -14,7 +15,8 @@
     "Name": "Undergraduate",
     "Course":"Web Design and Development",
     "Module": {
-      "Name":"NAME",
+      "Name":"Web Application Development",
+      "Code":"CIS2169",
     "Learning_outcomes":["LO1", "LO2"],
     "Assignment":["CW1", "CW2"],
     "Volume":["1000 words", "4000 words"],
@@ -25,7 +27,8 @@
     "Name": "Undergraduate",
     "Course":"Web Design and Development",
     "Module": {
-      "Name":"NAME",
+      "Name":"Employability",
+      "Code":"CIS2162",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
