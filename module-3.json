@@ -1,7 +1,7 @@
 [
   {
     "Name": "Research",
-    "Course":"PhD",
+    "Course":"PhD in Web Development",
     "Module": {
       "Name": "Scripting and Coding with UML",
       "Code": "CIS5001",
@@ -15,7 +15,7 @@
   },
   {
     "Name": "Research",
-    "Course":"PhD",
+    "Course":"PhD in Web Development",
     "Module": {
       "Name": "Mobile Application Design in the Future",
       "Code": "CIS5002",
