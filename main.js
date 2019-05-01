@@ -4,7 +4,7 @@ var btn = document.getElementById("btn");
 
 btn.addEventListener("click", function(){
   var ourRequest = new XMLHttpRequest();
-  ourRequest.open('GET', 'https://raw.githubusercontent.com/profharimohanpandey/CW2/master/module-'+ pageCounter +'.json');
+  ourRequest.open('GET', 'https://raw.githubusercontent.com/CMorton1892/CW2/master/module-'+ pageCounter +'.json');
   ourRequest.onload = function(){
     //console.log(ourRequest.responseText);
     var ourData = JSON.parse(ourRequest.responseText);
