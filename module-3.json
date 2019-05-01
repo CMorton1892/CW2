@@ -3,7 +3,7 @@
     "Name": "Research",
     "Course":"PhD",
     "Module": {
-      "Name": "Scripting and Coding with UML",
+      "Module_Name": "Scripting and Coding with UML",
       "Code": "CIS5001",
       "Number_of_Hours": "7",
       "Learning_outcomes":["LO1", "LO2"],
@@ -17,7 +17,7 @@
     "Name": "Research",
     "Course":"PhD",
     "Module": {
-      "Name": "Mobile Application Design",
+      "Module_Name": "Mobile Application Design",
       "Code": "CIS5002",
       "Number_of_Hours": "7",
       "Learning_outcomes":["LO1", "LO2"],

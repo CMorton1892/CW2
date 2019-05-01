@@ -3,7 +3,7 @@
     "Name": "Undergraduate",
     "Course":"Web Design and Development",
     "Module": {
-      "Name": "Server and Client Side Scripting",
+      "Module_Name": "Server and Client Side Scripting",
       "Code": "CIS2167",
       "Number_of_Hours": "3",
       "Learning_outcomes":["LO1", "LO2"],
@@ -17,7 +17,7 @@
     "Name": "Undergraduate",
     "Course":"Web Design and Development",
     "Module": {
-      "Name": "Web Application Design",
+      "Module_Name": "Web Application Design",
       "Code": "CIS2169",
       "Number_of_Hours": "3",
       "Learning_outcomes":["LO1", "LO2"],
@@ -31,7 +31,7 @@
     "Name": "Undergraduate",
     "Course":"Web Design and Development",
     "Module": {
-      "Name": "Employability",
+      "Module_Name": "Employability",
       "Code": "CIS2162",
       "Number_of_Hours": "2",
       "Learning_outcomes":["LO1", "LO2"],
