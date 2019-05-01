@@ -1,33 +1,44 @@
 [
   {
-    "Name": "Undergraduate",
-    "Course":"Web Development",
+    "Name": "Post Graduate",
+    "Course":"Web Design and Development",
     "Module": {
+      "Name": "Data Driven Design",
+      "Code": "CIS4189",
+      "Number_of_Hours": "5",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
-      "weights":["20%", "80%"]
+      "Weights":["30%", "70%"],
+      "Number_of_Credits": "40"
     }
   },
   {
-    "Name": "Post-Graduate",
-    "Course":"Big Data",
+    "Name": "Post Graduate",
+    "Course":"Web Design and Development",
     "Module": {
-    "Learning_outcomes":["LO1", "LO2"],
-    "Assignment":["CW1", "CW2"],
-    "Volume":["1000 words", "4000 words"],
-    "weights":["20%", "80%"]
-    }
-  },
-  {
-    "Name": "Research",
-    "Course":"Data Mining",
-    "Module": {
+      "Name": "Usability and Design",
+      "Code": "CIS4178",
+      "Number_of_Hours": "5",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
-      "weights":["20%", "80%"]
+      "Weights":["30%", "70%"],
+      "Number_of_Credits": "40"
     }
-    
-  }
+  },
+  {
+    "Name": "Post Graduate",
+    "Course":"Web Design and Development",
+    "Module": {
+      "Name": "Fundamentals of Web Coding",
+      "Code": "CIS4180",
+      "Number_of_Hours": "5",
+      "Learning_outcomes":["LO1", "LO2"],
+      "Assignment":["CW1", "CW2"],
+      "Volume":["1000 words", "4000 words"],
+      "Weights":["30%", "70%"],
+      "Number_of_Credits": "40"
+    }
+  },
 ]
