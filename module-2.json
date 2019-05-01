@@ -1,44 +1,44 @@
 [
   {
-    "Name": "Post Graduate",
+    "Name": "Post",
     "Course":"Web Design and Development",
     "Module": {
-      "Name": "Data Driven Design",
-      "Code": "CIS4189",
-      "Hours": "5 hours",
+      "Name": "Server and Client Side Scripting",
+      "Code": "CIS2167",
+      "Hours": "3 hours",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
-      "Volume":["1500 words", "5000 words"],
-      "weights":["30%", "70%"],
-      "Credit": "40 credits"
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"],
+      "Credit": "20 credits"
     }
   },
   {
-    "Name": "Post Graduate",
+    "Name": "Post",
     "Course":"Web Design and Development",
     "Module": {
-      "Name": "Usability and Design",
-      "Code": "CIS4178",
-      "Hours": "5 hours",
+      "Name": "Web Application Development",
+      "Code": "CIS2169",
+      "Hours": "3 hours",
     "Learning_outcomes":["LO1", "LO2"],
     "Assignment":["CW1", "CW2"],
-    "Volume":["1500 words", "5000 words"],
-    "weights":["30%", "70%"],
-    "Credit": "40 credits"
+    "Volume":["1000 words", "4000 words"],
+    "weights":["20%", "80%"],
+    "Credit": "20 credits"
     }
   },
   {
-    "Name": "Post Graduate",
+    "Name": "Post",
     "Course":"Web Design and Development",
     "Module": {
-      "Name": "Fundamentals of Web Coding",
-      "Code": "CIS4180",
-      "Hours": "5 hours",
+      "Name": "Employability",
+      "Code": "CIS2162",
+      "Hours": "3 hours",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
-      "Volume":["1500 words", "5000 words"],
-      "weights":["30%", "70%"],
-      "Credit": "40 credits"
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"],
+      "Credit": "20 credits"
     }
   }
 
