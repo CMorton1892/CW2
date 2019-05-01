@@ -3,6 +3,7 @@
     "Name": "Undergraduate",
     "Course":"Web Design and Development",
     "Module": {
+      "Module_Name":"NAME",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
@@ -13,6 +14,7 @@
     "Name": "Undergraduate",
     "Course":"Web Design and Development",
     "Module": {
+      "Module_Name":"NAME",
     "Learning_outcomes":["LO1", "LO2"],
     "Assignment":["CW1", "CW2"],
     "Volume":["1000 words", "4000 words"],
@@ -23,6 +25,7 @@
     "Name": "Undergraduate",
     "Course":"Web Design and Development",
     "Module": {
+      "Module_Name":"NAME",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
