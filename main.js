@@ -40,7 +40,7 @@ function renderHTML(data){
       }
     }
 
-    htmlString += ' and Volume ';
+    htmlString += '. The volume(s) for each assignment is/are ';
     for(ii = 0; ii < data[i].Module.Volume.length; ii++){
       if (ii == 0){
         htmlString += data[i].Module.Volume[ii];
@@ -49,7 +49,7 @@ function renderHTML(data){
       }
     }
 
-    htmlString += ' and weights ';
+    htmlString += ' with each weighing ';
     for(ii = 0; ii < data[i].Module.weights.length; ii++){
       if (ii == 0){
         htmlString += data[i].Module.weights[ii];
@@ -57,7 +57,7 @@ function renderHTML(data){
         htmlString += " and " + data[i].Module.weights[ii];
       }
     }
-    htmlString += '.</p>';
+    htmlString += '. This course is worth ' + data[i].Module.Credit + '.</p>';
   }
   moduleContainer.insertAdjacentHTML('beforeend', htmlString);
 
