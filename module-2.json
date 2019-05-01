@@ -1,42 +1,42 @@
 [
   {
-    "Name": "Post Graduate",
+    "Name": "Post Grad",
     "Course":"Web Design and Development",
     "Module": {
       "Name": "Server and Client Side Scripting",
       "Code": "CIS2167",
-      "Hours": "5 hours",
+      "Hours": "3 hours",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
-      "Volume":["1500 words", "5000 words"],
+      "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
       "Credit": "20 credits"
     }
   },
   {
-    "Name": "Post Graduate",
+    "Name": "Post Grad",
     "Course":"Web Design and Development",
     "Module": {
       "Name": "Web Application Development",
       "Code": "CIS2169",
-      "Hours": "5 hours",
+      "Hours": "3 hours",
     "Learning_outcomes":["LO1", "LO2"],
     "Assignment":["CW1", "CW2"],
-    "Volume":["1500 words", "5000 words"],
+    "Volume":["1000 words", "4000 words"],
     "weights":["20%", "80%"],
     "Credit": "20 credits"
     }
   },
   {
-    "Name": "Post Graduate",
+    "Name": "Post Grad",
     "Course":"Web Design and Development",
     "Module": {
       "Name": "Employability",
       "Code": "CIS2162",
-      "Hours": "5 hours",
+      "Hours": "3 hours",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
-      "Volume":["1500 words", "5000 words"],
+      "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
       "Credit": "20 credits"
     }
