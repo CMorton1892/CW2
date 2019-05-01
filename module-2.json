@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Post Grad",
+    "Name": "Post-G",
     "Course":"Web Design and Development",
     "Module": {
       "Name": "Server and Client Side Scripting",
@@ -14,7 +14,7 @@
     }
   },
   {
-    "Name": "Post Grad",
+    "Name": "Post-G",
     "Course":"Web Design and Development",
     "Module": {
       "Name": "Web Application Development",
@@ -28,7 +28,7 @@
     }
   },
   {
-    "Name": "Post Grad",
+    "Name": "Post-G",
     "Course":"Web Design and Development",
     "Module": {
       "Name": "Employability",
