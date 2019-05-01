@@ -1,7 +1,7 @@
 [
   {
     "Name": "Undergraduate",
-    "Course":"Web Development",
+    "Course":"Web Design and Development",
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
@@ -10,8 +10,8 @@
     }
   },
   {
-    "Name": "Post-Graduate",
-    "Course":"Big Data",
+    "Name": "Undergraduate",
+    "Course":"Web Design and Development",
     "Module": {
     "Learning_outcomes":["LO1", "LO2"],
     "Assignment":["CW1", "CW2"],
@@ -20,8 +20,8 @@
     }
   },
   {
-    "Name": "Research",
-    "Course":"Data Mining",
+    "Name": "Undergraduate",
+    "Course":"Web Design and Development",
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
