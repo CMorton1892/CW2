@@ -23,10 +23,7 @@ function renderHTML(data){
   var htmlString = "";
 
   for(i = 0; i < data.length; i++){
-    htmlString += "<p>" + data[i].Course + " is a " + data[i].Name + " course.</p>"
-  }
-  for(i = 0; i < data.length; i++){
-    htmlString += "<p>" + data[i].Name + ": " + data[i].Module.Name + " has assements "; //".</p>";
+    htmlString += "<p>" + data[i].Course + " is a " + data[i].Name + " course. " + data[i].Module.Code + ": " + data[i].Module.Name + " has assessments "; //".</p>";
     for(ii = 0; ii < data[i].Module.Assignment.length; ii++){
       if (ii == 0){
         htmlString += data[i].Module.Assignment[ii];
@@ -34,7 +31,7 @@ function renderHTML(data){
         htmlString += " and " + data[i].Module.Assignment[ii];
       }
     }
-    htmlString += ' and Learning Outcome ';
+    htmlString += ' and is taught for and Learning Outcome ';
     for(ii = 0; ii < data[i].Module.Learning_outcomes.length; ii++){
       if (ii == 0){
         htmlString += data[i].Module.Learning_outcomes[ii];
