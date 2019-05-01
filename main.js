@@ -31,7 +31,7 @@ function renderHTML(data){
         htmlString += " and " + data[i].Module.Assignment[ii];
       }
     }
-    htmlString += ' and is taught for and Learning Outcome ';
+    htmlString += ' and is taught for ' + data[i].Module.Hours + ' hours throughout the week. The Learning Outcome(s) is/are ';
     for(ii = 0; ii < data[i].Module.Learning_outcomes.length; ii++){
       if (ii == 0){
         htmlString += data[i].Module.Learning_outcomes[ii];

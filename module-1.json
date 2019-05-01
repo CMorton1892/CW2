@@ -5,7 +5,7 @@
     "Module": {
       "Name": "Server and Client Side Scripting",
       "Code": "CIS2167",
-      "Hours": "3",
+      "Hours": "3 hours",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
@@ -18,7 +18,7 @@
     "Module": {
       "Name": "Web Application Development",
       "Code": "CIS2169",
-      "Hours": "3",
+      "Hours": "3 hours",
     "Learning_outcomes":["LO1", "LO2"],
     "Assignment":["CW1", "CW2"],
     "Volume":["1000 words", "4000 words"],
@@ -31,7 +31,7 @@
     "Module": {
       "Name": "Employability",
       "Code": "CIS2162",
-      "Hours": "3",
+      "Hours": "3 hours",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
