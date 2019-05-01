@@ -23,7 +23,7 @@ function renderHTML(data){
   var htmlString = "";
 
   for(i = 0; i < data.length; i++){
-    htmlString += "<p>" + data[i].Course + " is a " + data[i].Name + " course and has assements "; //".</p>";
+    htmlString += "<p>" + data[i].Course + " is a " + data[i].Name + " course. " + data[i].Module.Name + " has assements "; //".</p>";
     for(ii = 0; ii < data[i].Module.Assignment.length; ii++){
       if (ii == 0){
         htmlString += data[i].Module.Assignment[ii];
