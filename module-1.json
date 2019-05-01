@@ -10,7 +10,7 @@
     }
   },
   {
-    "Name": "Post-GRADUATE",
+    "Name": "Post-Graduate",
     "Course":"Big Data",
     "Module": {
     "Learning_outcomes":["LO1", "LO2"],
@@ -29,5 +29,5 @@
       "weights":["20%", "80%"]
     }
   }
-  
+
 ]
