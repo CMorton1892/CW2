@@ -1,23 +1,33 @@
 [
   {
     "Name": "Undergraduate",
-    "Course":"Web Design and Development",
+    "Course":"Web Development",
     "Module": {
-      "Assignment":["CW1", "CW2"]
+      "Learning_outcomes":["LO1", "LO2"],
+      "Assignment":["CW1", "CW2"],
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"]
     }
   },
   {
-    "Name": "Undergraduate",
-    "Course":"Web Design and Development",
+    "Name": "Post-Graduate",
+    "Course":"Big Data",
     "Module": {
-      "Assignment":["CW1", "CW2"]
+    "Learning_outcomes":["LO1", "LO2"],
+    "Assignment":["CW1", "CW2"],
+    "Volume":["1000 words", "4000 words"],
+    "weights":["20%", "80%"]
     }
   },
   {
-    "Name": "Undergraduate",
-    "Course":"Web Design and Development",
+    "Name": "Research",
+    "Course":"Data Mining",
     "Module": {
-      "Assignment":["CW1", "CW2"]
+      "Learning_outcomes":["LO1", "LO2"],
+      "Assignment":["CW1", "CW2"],
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"]
     }
-  },
+  }
+
 ]

@@ -22,16 +22,16 @@ if (pageCounter > 3){
 function renderHTML(data){
   var htmlString = "";
 
-  /* for(i = 0; i < data.length; i++){
-    htmlString += "<p>" + data[i].Course + " is a " + data[i].Name + " course. " + data[i].Module.Code + ": " + data[i].Module.Module_Name + " has assessments "; //".</p>";
-     for(ii = 0; ii < data[i].Module.Assignment.length; ii++){
+  for(i = 0; i < data.length; i++){
+    htmlString += "<p>" + data[i].Name + " is a " + data[i].Course + " has assements "; //".</p>";
+    for(ii = 0; ii < data[i].Module.Assignment.length; ii++){
       if (ii == 0){
         htmlString += data[i].Module.Assignment[ii];
       } else {
         htmlString += " and " + data[i].Module.Assignment[ii];
       }
     }
-    htmlString += " and is taught for " + data[i].Module.Number_of_Hours + " with Learning Outcomes ";
+    htmlString += ' and Learning Outcome ';
     for(ii = 0; ii < data[i].Module.Learning_outcomes.length; ii++){
       if (ii == 0){
         htmlString += data[i].Module.Learning_outcomes[ii];
@@ -40,7 +40,7 @@ function renderHTML(data){
       }
     }
 
-    htmlString += " and Volume ";
+    htmlString += ' and Volume ';
     for(ii = 0; ii < data[i].Module.Volume.length; ii++){
       if (ii == 0){
         htmlString += data[i].Module.Volume[ii];
@@ -49,16 +49,16 @@ function renderHTML(data){
       }
     }
 
-    htmlString += " and weights ";
-    for(ii = 0; ii < data[i].Module.Weights.length; ii++){
+    htmlString += ' and weights ';
+    for(ii = 0; ii < data[i].Module.weights.length; ii++){
       if (ii == 0){
-        htmlString += data[i].Module.Weights[ii];
+        htmlString += data[i].Module.weights[ii];
       } else {
-        htmlString += " and " + data[i].Module.Weights[ii];
+        htmlString += " and " + data[i].Module.weights[ii];
       }
     }
-    htmlString += ". It is worth " + data[i].Module.Number_of_Credits + " credits.</p>";
-  }*/
+    htmlString += '.</p>';
+  }
   moduleContainer.insertAdjacentHTML('beforeend', htmlString);
 
 }
