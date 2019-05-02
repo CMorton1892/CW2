@@ -16,7 +16,7 @@
       "Name": "Scripting and Coding with UML",
       "Code": "CIS5001",
       "Hours": "8 hours",
-      "Learning_outcomes":"LO1",
+      "Learning_outcomes":["LO1", "LO2", "LO3", "LO4"],
       "Assignment":["CW1", "CW2"],
       "Volume":["2500 words", "8000 words"],
       "weights":["25%", "75%"],
