@@ -9,6 +9,9 @@
     "TaughtBy": "Tutor 1",
     "LedByID": "10394596",
     "TaughtByID": "50692930",
+    "Day": "Monday",
+    "Time": "10:00am",
+    "Room": "THF01",
     "Module": {
       "Name": "Server and Client Side Scripting",
       "Code": "CIS2167",
@@ -30,6 +33,9 @@
     "TaughtBy": "Tutor 3",
     "LedByID": "10394596",
     "TaughtByID": "69345928",
+    "Day": "Monday",
+    "Time": "10:00am",
+    "Room": "THF01",
     "Module": {
       "Name": "Web Application Development",
       "Code": "CIS2169",
@@ -51,6 +57,9 @@
     "TaughtBy": "Tutor 2",
     "LedByID": "10394596",
     "TaughtByID": "90485851",
+    "Day": "Monday",
+    "Time": "10:00am",
+    "Room": "THF01",
     "Module": {
       "Name": "Employability",
       "Code": "CIS2162",
