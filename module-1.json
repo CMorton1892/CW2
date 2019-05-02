@@ -3,7 +3,7 @@
     "Name": "Undergraduate",
     "Course":"Web Design and Development",
     "Code": "CISWD",
-    "LearningOutcome":["LO1", "LO2"],
+    "LearningOutcome":"LO1",
     "ExitAward": "1st/2:1/2:2/3rd/Fail",
     "LedBy": "Tutor 1",
     "TaughtBy": "Tutor 1",

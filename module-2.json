@@ -27,7 +27,7 @@
     "Name": "Post Graduate",
     "Course":"MComp Web Design and Development",
     "Code": "CISMWD",
-    "LearningOutcome":["LO1", "LO2"],
+    "LearningOutcome":"LO1",
     "ExitAward": "1st/2:1/2:2/3rd/Fail",
     "LedBy": "Tutor 3",
     "TaughtBy": "Tutor 3",
