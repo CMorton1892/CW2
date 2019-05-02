@@ -46,7 +46,7 @@ function renderHTML(data){
         htmlString += " and " + data[i].Module.weights[ii];
       }
     }
-    htmlString += '. This module is worth ' + data[i].Module.Credit + '.<br> The module is led by ' + data[i].Academic.LedBy + " and is taught by " + data[i].Academic.TaughtBy + ".</p>" ;
+    htmlString += '. This module is worth ' + data[i].Module.Credit + '.<br> The module is led by ' + data[i].LedBy + " (ID: " + data[i].LedByID + ") and is taught by " + data[i].TaughtBy + " (ID: " + data[i].TaughtByID + ").</p>" ;
   }
   moduleContainer.insertAdjacentHTML('beforeend', htmlString);
 
