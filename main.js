@@ -46,7 +46,8 @@ function renderHTML(data){
         htmlString += " and " + data[i].Module.weights[ii];
       }
     }
-    htmlString += '. This module is worth ' + data[i].Module.Credit + '.<br> The module is led by ' + data[i].LedBy + " (ID: " + data[i].LedByID + ") and is taught by " + data[i].TaughtBy + " (ID: " + data[i].TaughtByID + ").</p>" ;
+    htmlString += '. This module is worth ' + data[i].Module.Credit + '.<br> The module is led by ' + data[i].LedBy + " (ID: " + data[i].LedByID + ") and is taught by " + data[i].TaughtBy + " (ID: " + data[i].TaughtByID + ").<br>" ;
+    htmlString += data[i].Module.Name + " is on a " + data[i].Day + " at " + data[i].Time + " in Room " + data[i].Room + ".</p>"
   }
   moduleContainer.insertAdjacentHTML('beforeend', htmlString);
 
