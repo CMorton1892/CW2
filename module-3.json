@@ -2,6 +2,16 @@
   {
     "Name": "Research",
     "Course":"PhD in Web Development",
+    "Code": "PhDWD",
+    "LearningOutcome":["LO1", "LO2"],
+    "ExitAward": "Pass/Fail",
+    "LedBy": "Tutor 4",
+    "TaughtBy": "Tutor 4",
+    "LedByID": "67049523",
+    "TaughtByID": "67049523",
+    "Day": "Friday",
+    "Time": "11:00am",
+    "Room": "THF03/THF04",
     "Module": {
       "Name": "Scripting and Coding with UML",
       "Code": "CIS5001",
@@ -16,6 +26,16 @@
   {
     "Name": "Research",
     "Course":"PhD in Web Development",
+    "Code": "PhDWD",
+    "LearningOutcome":["LO1", "LO2"],
+    "ExitAward": "Pass/Fail",
+    "LedBy": "Tutor 5",
+    "TaughtBy": "Tutor 5",
+    "LedByID": "49603512",
+    "TaughtByID": "49603512",
+    "Day": "Friday",
+    "Time": "11:00am",
+    "Room": "THG03/THG04",
     "Module": {
       "Name": "Mobile Application Design in the Future",
       "Code": "CIS5002",
