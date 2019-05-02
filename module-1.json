@@ -13,11 +13,7 @@
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
-      "Credit": "20 credits",
-    },
-    "Academic": {
-      "LedBy": "Tutor1",
-      "TaughtBy": "Tutor2"
+      "Credit": "20 credits"
     }
   },
   {
@@ -34,11 +30,7 @@
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
-      "Credit": "20 credits",
-    },
-    "Academic": {
-      "LedBy": "Tutor1",
-      "TaughtBy": "Tutor2"
+      "Credit": "20 credits"
     }
   },
   {
@@ -55,11 +47,7 @@
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
-      "Credit": "20 credits",
-    },
-    "Academic": {
-      "LedBy": "Tutor1",
-      "TaughtBy": "Tutor2"
+      "Credit": "20 credits"
     }
   }
 
