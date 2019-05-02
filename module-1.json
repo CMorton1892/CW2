@@ -2,6 +2,7 @@
   {
     "Name": "Undergraduate",
     "Course":"Web Design and Development",
+    "Code": "CISWD",
     "Module": {
       "Name": "Server and Client Side Scripting",
       "Code": "CIS2167",
@@ -16,6 +17,7 @@
   {
     "Name": "Undergraduate",
     "Course":"Web Design and Development",
+    "Code": "CISWD",
     "Module": {
       "Name": "Web Application Development",
       "Code": "CIS2169",
@@ -30,6 +32,7 @@
   {
     "Name": "Undergraduate",
     "Course":"Web Design and Development",
+    "Code": "CISWD",
     "Module": {
       "Name": "Employability",
       "Code": "CIS2162",

@@ -36,7 +36,7 @@ function renderHTML(data){
         htmlString += " and " + data[i].Module.weights[ii];
       }
     }
-    htmlString += '. This course is worth ' + data[i].Module.Credit + '.</p>';
+    htmlString += '. This module is worth ' + data[i].Module.Credit + '.</p>';
   }
   moduleContainer.insertAdjacentHTML('beforeend', htmlString);
 
